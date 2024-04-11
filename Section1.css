@@ -1,0 +1,7 @@
+.Section1 {
+    max-width: 144rem;
+    height: 63rem;
+    margin: auto;
+    background-color: rgb(207, 103, 34);
+    border: 0.2rem solid black;
+}
